@@ -18,7 +18,7 @@ The program performs the following operations:
 - Morphological Closing
 
 ## Software Used
-
+  
 - Anaconda – Python 3.7
 - Jupyter Notebook / VS Code
 - OpenCV (cv2)
@@ -114,12 +114,14 @@ plt.axis('off')
 
 ## Output
 
+<img width="510" height="527" alt="image" src="https://github.com/user-attachments/assets/f5553fb6-3d42-42fe-a8b9-f779cbce8f33" />
 
 ### Original Image
 
 - The input image is displayed.
 - The image serves as the source for morphological processing.
 
+<img width="588" height="417" alt="image" src="https://github.com/user-attachments/assets/d11dcc93-4de2-47a9-b609-0f2ae053eff3" />
 
 
 
@@ -131,6 +133,7 @@ plt.axis('off')
 - Thin protrusions and isolated pixels are eliminated.
 - Object boundaries become smoother.
 
+<img width="615" height="420" alt="image" src="https://github.com/user-attachments/assets/6d970284-0729-4224-bba8-e0408f552ee6" />
 
 
 ### Closing Operation
@@ -141,6 +144,7 @@ plt.axis('off')
 - Broken regions are connected.
 - Object boundaries become more continuous.
 
+<img width="557" height="418" alt="image" src="https://github.com/user-attachments/assets/e0b29122-4e05-4ce1-8fd6-a39831d1c0d1" />
 
 
 
